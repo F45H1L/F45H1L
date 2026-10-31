@@ -140,7 +140,7 @@ Assessed authentication and document-upload functionality against **OWASP Top 10
   <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 </p>
 
-- **50+ labs** across TryHackMe, CyLab Security Academy, PortSwigger Web Security Academy, and more
+- **100+ labs** across TryHackMe, CyLab Security Academy, PortSwigger Web Security Academy, and more
 - SOC operations, network traffic monitoring, attack detection, and security event investigation exercises
 - **CTFs** covering web exploitation, digital forensics, OSINT, networking, and offensive security
 - Web exploitation, enumeration, privilege escalation, and vulnerability analysis labs
