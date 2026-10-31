@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fashil Rasool B 👋</h1>
+<h1 align="center">Hi, I'm Fashil Rasool 👋</h1>
 
 <h3 align="center">Cybersecurity Professional SOC · VAPT · & Detection Engineering 🛡️</h3>
 
